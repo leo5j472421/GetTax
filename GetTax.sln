@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GetTax", "GetTax\GetTax.csproj", "{FDCAF7CF-8DCD-48B5-9E43-514E1436C248}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FDCAF7CF-8DCD-48B5-9E43-514E1436C248}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDCAF7CF-8DCD-48B5-9E43-514E1436C248}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDCAF7CF-8DCD-48B5-9E43-514E1436C248}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDCAF7CF-8DCD-48B5-9E43-514E1436C248}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FF8FCA4C-21E8-44C6-92F4-4BE1F75A8650}
+	EndGlobalSection
+EndGlobal
